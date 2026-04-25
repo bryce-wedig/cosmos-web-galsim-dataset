@@ -1,6 +1,6 @@
 # Overview
 
-This is the documentation page for the latest version of the dataset uploaded [here](https://zenodo.org/records/19188494) on Zenodo. 
+This is the documentation page for the latest version of the dataset uploaded [here](https://zenodo.org/records/19500265) on Zenodo. 
 
 This dataset, meant for use with SLSim, is a downselected version of the full COSMOS Web dataset, of which the master catalog `COSMOSWeb_mastercatalog_v1.fits` can be downloaded [here](https://cosmos2025.iap.fr/catalog.html), and the corresponding NIRCam images [here](https://cosmos2025.iap.fr/nircam.html#downloads).
 
